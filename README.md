@@ -4,9 +4,14 @@ A 16-second animated version of the An-Nibrās Institute 2-day Qur'an Summit lau
 Live page: https://annibraas-summit-launch.netlify.app
 
 ## Who made what
-- **Artwork and direction: Abdulgafar Quareeb.** Designed the original flyer and its layers (background, rocket, logo). Directed the layout, the rocket's angle, size and placement, and the text positions.
-- **Animation code: written by Claude (AI)** from Abdulgafar's brief and revisions. Abdulgafar directed and reviewed the result.
-- This is not hand-written code by the designer, and it is shared openly as AI-assisted work.
+CREDITS
+  - Artwork and direction: Abdulgafar Quareeb. He designed the flyer and its layers
+    (background, rocket, logo) and directed the layout, rocket angle, size and placement.
+  - Animation code: built with AI assistance from Abdulgafar's brief and revisions.
+    Abdulgafar reviewed the result, adjusted settings himself (rocket angle, text position and the light streaks),
+    and crosschecked the rest of the code to make sure it works properly.
+  - Not exported to a video file. It plays live in the browser.
+
 
 ## What it renders
 - Kinetic headline type ("The Journey has Started!"), paragraph reveals and a handle pill.
